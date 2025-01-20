@@ -1,0 +1,11 @@
+pyarrow
+numpy
+wget
+pymongo
+requests
+pandas
+urllib3
+python-dotenv
+tqdm
+ccxt
+ta
